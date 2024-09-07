@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/b01.png");
+		background-image: url("images/b01.jpg");
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -116,7 +116,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-image: url("images/b01.png");
+		background-image: url("images/b01.jpg");
 	}
 
 	body, input, select, textarea {
@@ -2157,7 +2157,7 @@ input, select, textarea {
 		}
 
 	select {
-		background-image: url("images/b01.png");
+		background-image: url("images/b01.jpg");
 		z-index=3
 	}
 
