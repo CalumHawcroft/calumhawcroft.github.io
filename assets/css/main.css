@@ -2162,11 +2162,6 @@ input, select, textarea {
 		background-image: url("images/b01.png");
 	}
 
-		select option {
-			color: #ffffff;
-			background: #935d8c;
-		}
-
 	input[type="checkbox"] + label,
 	input[type="radio"] + label {
 		color: rgba(255, 255, 255, 0.65);
