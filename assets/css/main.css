@@ -125,6 +125,12 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+		@media screen and (orientation: portrait) {
+
+			#wrapper > .bg {
+				background-size: auto,		auto,		auto 175%;
+			}
+
 /* Type */
 
 	body {
